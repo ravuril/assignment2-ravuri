@@ -89,6 +89,7 @@ Below are the some of the best countries to visit during your vaccation
     'svg': 'http://www.w3.org/2000/svg'
   };
   return ns[prefix] || null;
- } ```
+ } 
+ ```
 
 ![Link to code snippet](https://stackoverflow.com/questions75274984modify-canvas-svg-image-with-javascript)
