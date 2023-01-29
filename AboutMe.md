@@ -29,7 +29,7 @@ Below are the some of the best countries to visit during your vaccation
  ## Code Fencing Section
  >Modify Canvas SVG Image with Javascript
 
- ![Link to stackoverflow article](https://stackoverflow.com/questions75274984modify-canvas-svg-image-with-javascript)
+ [Link to stackoverflow article](https://stackoverflow.com/questions75274984modify-canvas-svg-image-with-javascript)
 
  ``` const canvas = document.getElementById('canvas');
  const ctx = canvas.getContext('2d');
@@ -92,4 +92,4 @@ Below are the some of the best countries to visit during your vaccation
  } 
  ```
 
-![Link to code snippet](https://stackoverflow.com/questions75274984modify-canvas-svg-image-with-javascript)
+[Link to code snippet](https://stackoverflow.com/questions75274984modify-canvas-svg-image-with-javascript)
