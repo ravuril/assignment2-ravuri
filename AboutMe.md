@@ -20,6 +20,7 @@ Below are the some of the best countries to visit during your vaccation
 ---
 
 ##  Pithy Quotes section
->No man has a good enough memory to be a successful liar. *Abraham Lincoln
->Age is something that doesn't matter unless you are a cheese. *Luis Bunuel
+>No man has a good enough memory to be a successful liar. *Abraham Lincoln*
+
+>Age is something that doesn't matter unless you are a cheese. *Luis Bunuel*
  
