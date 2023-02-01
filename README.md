@@ -16,7 +16,7 @@ i like **volley ball** because i **can play** only that
 * Diggin' Divas
 * Setting Stars 
 
-![Link to Aboutme File](https://github.com/ravuril/assignment2-ravuri/blob/main/AboutMe.md)
+[Link to Aboutme File](https://github.com/ravuril/assignment2-ravuri/blob/main/AboutMe.md)
 
 ---
 
