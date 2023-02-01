@@ -30,3 +30,12 @@ Below are the some of the best countries to visit during your vaccation
 | Paris |  Travelers really fall in love with the city's quaint cafes, vibrant markets | 3 |
 | Bora Bora | A small French Polynesian island may lack in size it makes up in sheer tropical beauty| 3 |
 | London | The best time to travel to London is during the warmer months. | 4 |
+
+---
+
+##  Pithy Quotes section
+>No man has a good enough memory to be a successful liar. *Abraham Lincoln*
+
+>Age is something that doesn't matter unless you are a cheese. *Luis Bunuel*
+
+---
